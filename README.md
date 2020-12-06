@@ -6,7 +6,7 @@
 * Java exported artifact: SOSBank.war file
 * Project statement (in spanish): Practica RESTful 2020 - enunciado.pdf file
 
-It includes code for a terminal-based client for a test bases purpose.
+It includes code for a terminal-based client for a test based purpose.
 
 
 Authors:
