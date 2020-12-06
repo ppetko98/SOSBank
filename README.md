@@ -10,7 +10,7 @@ It includes code for a terminal-based client for a test bases purpose.
 
 
 Authors:
-  Petko Vladimirov Stoyanov
-  Pablo Muñoz Jara
+  * Petko Vladimirov Stoyanov
+  * Pablo Muñoz Jara
   
 Tags: SOS, Sistemas Orientados a Servicios, Universidad Politécnica de Madrid, Ingenieria Informatica, UPM, SOS, Practica servicios RESTful, REST, API.
