@@ -4,4 +4,4 @@
 * Built with Java JAX-RS
 * MySQL database exported within the .sql file
 * Java exported artifact: SOSBank.war file
-* [Project statement (in spanish)](./Practica RESTful 2020 - enunciado.pdf)
+* [Project statement (in spanish)](Practica RESTful 2020 - enunciado.pdf)
